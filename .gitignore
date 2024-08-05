@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+/.idea
+/.vscode
+*.iml
+
+# Logs
+/logs
+*.log
+
+# Maven
+/target
+dependency-reduced-pom.xml
+release.properties
+
+# Others
+.DS_Store
+Thumbs.db
+*.tmp
