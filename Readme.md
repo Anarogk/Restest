@@ -148,9 +148,3 @@ src
 
 This framework simplifies the process of automating REST API testing, providing a structured approach to validate APIs, ensuring reliability, and facilitating continuous integration. By following the setup and usage instructions, you can integrate this framework into your projects and enhance your testing capabilities.
 
----
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
