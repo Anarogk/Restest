@@ -144,7 +144,4 @@ src
 
 6. **CI/CD Integration**: Follow the Jenkins integration steps mentioned above or integrate with your existing CI/CD pipeline accordingly.
 
-## Conclusion
-
-This framework simplifies the process of automating REST API testing, providing a structured approach to validate APIs, ensuring reliability, and facilitating continuous integration. By following the setup and usage instructions, you can integrate this framework into your projects and enhance your testing capabilities.
 
